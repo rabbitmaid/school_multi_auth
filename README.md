@@ -35,19 +35,11 @@ A sophisticated multi-role authentication system built with Laravel, featuring r
 
 ### Main Dependencies
 
-- **Laravel Framework** (`^12.0`) - The core framework
-- **Laravel Tinker** (`^2.10.1`) - REPL for Laravel
 - **Spatie Laravel Permission** (`^6.23`) - Role and permission management
 
 ### Development Dependencies
 
 - **Laravel Breeze** (`^2.3`) - Authentication scaffolding
-- **Laravel Pail** (`^1.2.2`) - Enhanced Laravel logging
-- **Laravel Pint** (`^1.24`) - PHP code style fixer
-- **Laravel Sail** (`^1.41`) - Docker development environment
-- **Pest PHP** (`^4.1`) - Testing framework
-- **Collision** (`^8.6`) - Beautiful error reporting
-- **Faker** (`^1.23`) - Generates fake data for testing
 
 ## Installation
 
