@@ -154,4 +154,6 @@ After seeding, the following demo users will be available:
 
 ## License
 
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is open-sourced software licensed under the [MIT License](./LICENSE.md).
+
+See the `LICENSE.md` file for full terms.
