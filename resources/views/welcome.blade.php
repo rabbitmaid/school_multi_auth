@@ -114,7 +114,7 @@
       <section class="mt-12 bg-indigo-600 rounded-lg p-8 text-white flex flex-col sm:flex-row items-center justify-between">
         <div>
           <h3 class="text-xl font-bold">Start your journey with RabbitSchool</h3>
-          <p class="mt-2 text-sm opacity-90">Log in once — let the app take you to your personalized dashboard.</p>
+          <p class="mt-2 text-sm opacity-90">Log in! and let the app take you to your personalized dashboard.</p>
         </div>
         <div class="mt-4 sm:mt-0">
           <a href="{{ route('login') }}" class="inline-flex items-center px-5 py-3 rounded-md bg-white text-indigo-600 font-semibold">Sign in</a>
